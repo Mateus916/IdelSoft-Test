@@ -1,0 +1,13 @@
+
+{
+  "name": "cypress-magento",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "cypress run",
+    "open": "cypress open"
+  },
+  "dependencies": {
+    "cypress": "^12.0.0"
+  },
+  "devDependencies": {}
+}
